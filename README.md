@@ -11,7 +11,7 @@ I open source pretty much everything I use/create, my [personal scripts](https:/
 
 Most of my repos mirror over from [gitlab](https://gitlab.com/seanbreckenridge)
 
-<img style="margin-left: auto; margin-right: auto" src="https://github-readme-stats.vercel.app/api?username=seanbreckenridge&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+![my github stats](https://github-readme-stats.vercel.app/api?username=seanbreckenridge&show_icons=true&theme=synthwave)
 
 <!--
 **seanbreckenridge/seanbreckenridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

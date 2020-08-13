@@ -11,4 +11,4 @@ I open source pretty much everything I use/create, my [personal scripts](https:/
 
 Most of my repos mirror over from [gitlab](https://gitlab.com/seanbreckenridge)
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=seanbreckenridge&show_icons=true&theme=synthwave)
+[![my github stats](https://github-readme-stats.vercel.app/api?username=seanbreckenridge&show_icons=true&theme=synthwave)](https://exobrain.sean.fish/projects)

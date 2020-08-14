@@ -1,4 +1,4 @@
-### henlo
+### hello
 
 * currently working on:
   * [connecting online databases](https://www.patreon.com/posts/30063841)

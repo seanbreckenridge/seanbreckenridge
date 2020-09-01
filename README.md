@@ -1,9 +1,6 @@
 ### hello
 
-* currently working on:
-  * [connecting online databases](https://www.patreon.com/posts/30063841)
-  * optimizing [my workflow](https://exobrain.sean.fish/tools/)
-  * saving all my personal data, inspired by [beepb00p](https://beepb00p.xyz/sad-infra.html)
+* currently working on saving [all my personal data](https://github.com/seanbreckenridge/HPI)
 * learning `golang` and `elixir`
 * [<img src="https://sean.fish/favicon.ico"> other things I do on the internet](https://sean.fish/)
 

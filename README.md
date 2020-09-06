@@ -1,6 +1,6 @@
 ### hello
 
-* currently working on saving [all my personal data](https://github.com/seanbreckenridge/HPI)
+* currently working on saving [all my personal data](https://github.com/seanbreckenridge/HPI#readme)
 * learning `golang` and `elixir`
 * [<img src="https://sean.fish/favicon.ico"> other things I do on the internet](https://sean.fish/)
 
